@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net" modified="2024-11-02T17:17:00.000Z" agent="Cascade" version="22.0.0" type="device" pages="3">
+  <diagram name="1-Vista-Citas-Mobile" id="page1">
+    <mxGraphModel dx="375" dy="1400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="375" pageHeight="1400">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        
+        <!-- TOP BAR -->
+        <mxCell id="topbar" value="☎ +57 (601) 300 1234&#xa;✉ hemolink@hsj.edu.co" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0d47a1;fontColor=#FFFFFF;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="335" height="35" as="geometry"/>
+        </mxCell>
+        
+        <!-- NAVBAR -->
+        <mxCell id="navbar" value="🏥 HEMOLINK HSJ&#xa;👤 Juan Pérez" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0d47a1;fontColor=#FFFFFF;fontSize=13;fontStyle=1;align=center;gradientColor=#1976d2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="55" width="335" height="50" as="geometry"/>
+        </mxCell>
+        
+        <!-- HEADER -->
+        <mxCell id="header" value="Mis Citas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=22;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="125" width="335" height="50" as="geometry"/>
+        </mxCell>
+        
+        <!-- PRÓXIMAS CITAS -->
+        <mxCell id="proximas-header" value="📅 Próximas Citas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3f2fd;fontSize=14;fontStyle=1;align=left;spacingLeft=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="195" width="335" height="35" as="geometry"/>
+        </mxCell>
+        
+        <!-- Cita 1 - Confirmada -->
+        <mxCell id="cita1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2e7d32;strokeWidth=3;shadow=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="295" height="200" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="cita1-content" value="📅 15 Nov 2024&#xa;🕐 10:00 AM&#xa;&#xa;👨‍⚕️ Dr. María González&#xa;🏥 Consulta Oncología&#xa;📍 Torre Esp., Piso 5, C-501&#xa;&#xa;✅ Confirmada&#xa;&#xa;[Ver Detalles]  [Cancelar]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;spacingLeft=15;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="295" height="200" as="geometry"/>
+        </mxCell>
+        
+        <!-- Cita 2 - Pendiente -->
+        <mxCell id="cita2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#f57c00;strokeWidth=3;shadow=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="40" y="470" width="295" height="220" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="cita2-content" value="📅 22 Nov 2024&#xa;🕐 02:30 PM&#xa;&#xa;👨‍⚕️ Dr. Carlos Ruiz&#xa;🏥 Hemato-Oncología&#xa;📍 Torre Esp., Piso 5, C-503&#xa;&#xa;⏳ Pendiente Confirmación&#xa;&#xa;[Confirmar]  [Ver]  [Cancelar]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;spacingLeft=15;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="470" width="295" height="220" as="geometry"/>
+        </mxCell>
+        
+        <!-- HISTORIAL -->
+        <mxCell id="historial-header" value="📋 Historial" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3f2fd;fontSize=14;fontStyle=1;align=left;spacingLeft=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="720" width="335" height="35" as="geometry"/>
+        </mxCell>
+        
+        <!-- Cita Completada -->
+        <mxCell id="cita3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f9fa;strokeColor=#dee2e6;shadow=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="40" y="775" width="295" height="120" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="cita3-content" value="📅 05 Oct 2024 - 09:00 AM&#xa;👨‍⚕️ Dr. María González&#xa;🏥 Consulta Oncología&#xa;&#xa;✓ Completada&#xa;&#xa;[Ver Detalles]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;spacingLeft=15;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="775" width="295" height="120" as="geometry"/>
+        </mxCell>
+        
+        <!-- Botón Nueva Cita -->
+        <mxCell id="btn-nueva" value="[+ Solicitar Nueva Cita]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d47a1;fontColor=#FFFFFF;fontSize=14;fontStyle=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="940" width="200" height="50" as="geometry"/>
+        </mxCell>
+        
+        <!-- Botón Cerrar Sesión -->
+        <mxCell id="btn-logout" value="[Cerrar Sesión]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6c757d;fontColor=#FFFFFF;fontSize=13;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="1010" width="150" height="40" as="geometry"/>
+        </mxCell>
+        
+      </root>
+    </mxGraphModel>
+  </diagram>
+  
+  <diagram name="2-Modal-Confirmar-Mobile" id="page2">
+    <mxGraphModel dx="375" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="375" pageHeight="800">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        
+        <!-- Background Overlay -->
+        <mxCell id="overlay" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="335" height="760" as="geometry"/>
+        </mxCell>
+        
+        <!-- Modal -->
+        <mxCell id="modal" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#dee2e6;shadow=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="295" height="640" as="geometry"/>
+        </mxCell>
+        
+        <!-- Modal Header -->
+        <mxCell id="modal-header" value="✅ Confirmar Asistencia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2e7d32;fontColor=#FFFFFF;fontSize=16;fontStyle=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="295" height="50" as="geometry"/>
+        </mxCell>
+        
+        <!-- Modal Content -->
+        <mxCell id="modal-content" value="¿Confirmas tu asistencia?&#xa;&#xa;📅 22 Nov 2024&#xa;🕐 02:30 PM&#xa;👨‍⚕️ Dr. Carlos Ruiz&#xa;🏥 Hemato-Oncología&#xa;📍 Torre Esp., Piso 5, C-503&#xa;&#xa;Recordatorios a:&#xa;✉️ juan.perez@email.com&#xa;📱 +57 300 123 4567&#xa;&#xa;Recibirás notificaciones:&#xa;• 72h antes (19 Nov 02:30 PM)&#xa;• 24h antes (21 Nov 02:30 PM)&#xa;• 2h antes (22 Nov 12:30 PM)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;spacingLeft=15;spacingTop=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="295" height="490" as="geometry"/>
+        </mxCell>
+        
+        <!-- Buttons -->
+        <mxCell id="btn-confirmar" value="[Confirmar Asistencia]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2e7d32;fontColor=#FFFFFF;fontSize=13;fontStyle=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="630" width="255" height="45" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="btn-cancelar" value="[Cancelar]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6c757d;fontColor=#FFFFFF;fontSize=13;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="685" width="150" height="35" as="geometry"/>
+        </mxCell>
+        
+      </root>
+    </mxGraphModel>
+  </diagram>
+  
+  <diagram name="3-Modal-Cancelar-Mobile" id="page3">
+    <mxGraphModel dx="375" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="375" pageHeight="800">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        
+        <!-- Background Overlay -->
+        <mxCell id="overlay" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="335" height="760" as="geometry"/>
+        </mxCell>
+        
+        <!-- Modal -->
+        <mxCell id="modal" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#dee2e6;shadow=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="295" height="680" as="geometry"/>
+        </mxCell>
+        
+        <!-- Modal Header -->
+        <mxCell id="modal-header" value="⚠️ Cancelar Cita" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dc3545;fontColor=#FFFFFF;fontSize=16;fontStyle=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="295" height="50" as="geometry"/>
+        </mxCell>
+        
+        <!-- Modal Content -->
+        <mxCell id="modal-content" value="¿Estás seguro de cancelar?&#xa;&#xa;📅 15 Nov 2024&#xa;🕐 10:00 AM&#xa;👨‍⚕️ Dr. María González&#xa;🏥 Consulta Oncología&#xa;&#xa;⚠️ Importante:&#xa;• No se puede deshacer&#xa;• Cita disponible para otros&#xa;• Recibirás confirmación&#xa;• Puedes solicitar nueva cita&#xa;&#xa;Motivo (opcional):&#xa;[_____________________]&#xa;&#xa;💡 Tip: Puedes solicitar&#xa;nueva cita después de&#xa;cancelar." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;spacingLeft=15;spacingTop=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="295" height="540" as="geometry"/>
+        </mxCell>
+        
+        <!-- Buttons -->
+        <mxCell id="btn-confirmar-cancelacion" value="[Sí, Cancelar Cita]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dc3545;fontColor=#FFFFFF;fontSize=13;fontStyle=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="660" width="255" height="45" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="btn-mantener" value="[No, Mantener Cita]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2e7d32;fontColor=#FFFFFF;fontSize=13;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="715" width="200" height="35" as="geometry"/>
+        </mxCell>
+        
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,154 @@
+<mxfile host="app.diagrams.net" modified="2024-11-02T16:53:00.000Z" agent="Cascade" version="22.0.0" type="device">
+  <diagram name="Página Completa" id="full-page">
+    <mxGraphModel dx="1440" dy="4000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1440" pageHeight="4000">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        
+        <!-- TOP BAR -->
+        <mxCell id="topbar" value="☎ +57 (601) 300 1234 | ✉ hemolink@hsj.edu.co                                                                                                    🕐 Lun-Vie: 7AM-5PM | Sáb: 8AM-12PM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0d47a1;fontColor=#FFFFFF;fontSize=11;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="1360" height="30" as="geometry"/>
+        </mxCell>
+        
+        <!-- NAVBAR -->
+        <mxCell id="navbar" value="🏥 HEMOLINK HSJ                                                    Inicio | Servicios | Mis Citas | Guía del Paciente | Contacto" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0d47a1;fontColor=#FFFFFF;fontSize=14;fontStyle=1;align=left;spacingLeft=30;gradientColor=#1976d2;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="1360" height="60" as="geometry"/>
+        </mxCell>
+        
+        <!-- HERO SECTION -->
+        <mxCell id="hero-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0d47a1;gradientColor=#c62828;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="1360" height="600" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="hero-content" value="Gestión Inteligente&#xa;de Citas&#xa;&#xa;Sistema de citas para el servicio de&#xa;Hemato-Oncología del Hospital San Jorge&#xa;&#xa;[📅 Ver Mis Citas]  [📖 Guía del Paciente]&#xa;&#xa;&#xa;🕐                    🔄                    🛡️&#xa;Recordatorios    Reasignación    Atención&#xa;Automáticos      Inteligente      Prioritaria" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=32;fontStyle=1;fontColor=#FFFFFF;spacingLeft=60;spacingTop=100;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="700" height="600" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="hero-icon" value="❤️" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=150;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="900" y="280" width="400" height="250" as="geometry"/>
+        </mxCell>
+        
+        <!-- SERVICIOS SECTION -->
+        <mxCell id="servicios-header" value="Servicio de Hemato-Oncología&#xa;Atención especializada de cuarto nivel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=28;fontStyle=1;align=center;verticalAlign=top;spacingTop=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="730" width="1360" height="100" as="geometry"/>
+        </mxCell>
+        
+        <!-- Card Oncología -->
+        <mxCell id="card-oncologia-header" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dc3545;strokeColor=none;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="80" y="860" width="380" height="100" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="card-oncologia-icon" value="❤️" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="220" y="875" width="100" height="70" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="card-oncologia-body" value="❤️ Oncología&#xa;&#xa;Diagnóstico y tratamiento&#xa;especializado de cáncer con&#xa;tecnología de última generación.&#xa;&#xa;• Quimioterapia&#xa;• Radioterapia&#xa;• Inmunoterapia&#xa;• Cirugía oncológica" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#dee2e6;fontSize=13;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="80" y="960" width="380" height="220" as="geometry"/>
+        </mxCell>
+        
+        <!-- Card Hematología -->
+        <mxCell id="card-hemato-header" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d47a1;strokeColor=none;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="530" y="860" width="380" height="100" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="card-hemato-icon" value="💧" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="670" y="875" width="100" height="70" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="card-hemato-body" value="💧 Hematología&#xa;&#xa;Atención integral de&#xa;enfermedades de la sangre y&#xa;órganos hematopoyéticos.&#xa;&#xa;• Anemias&#xa;• Leucemias&#xa;• Linfomas&#xa;• Trastornos de coagulación" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#dee2e6;fontSize=13;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="530" y="960" width="380" height="220" as="geometry"/>
+        </mxCell>
+        
+        <!-- Card Seguimiento -->
+        <mxCell id="card-seguimiento-header" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#28a745;strokeColor=none;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="980" y="860" width="380" height="100" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="card-seguimiento-icon" value="📅" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="875" width="100" height="70" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="card-seguimiento-body" value="📅 Seguimiento&#xa;&#xa;Control continuo y seguimiento&#xa;personalizado de pacientes en&#xa;tratamiento.&#xa;&#xa;• Controles periódicos&#xa;• Evaluación de respuesta&#xa;• Manejo de efectos adversos&#xa;• Apoyo psicológico" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#dee2e6;fontSize=13;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="980" y="960" width="380" height="220" as="geometry"/>
+        </mxCell>
+        
+        <!-- MIS CITAS SECTION -->
+        <mxCell id="citas-header" value="Mis Citas&#xa;Consulta, confirma o cancela tus citas médicas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=28;fontStyle=1;align=center;verticalAlign=top;spacingTop=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1220" width="1360" height="100" as="geometry"/>
+        </mxCell>
+        
+        <!-- Login Card -->
+        <mxCell id="login-card" value="👤 Acceso al Sistema&#xa;&#xa;Número de Documento *&#xa;[_________________________________]&#xa;&#xa;Correo o Celular *&#xa;[_________________________________]&#xa;&#xa;&#xa;[Acceder a Mis Citas]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#dee2e6;fontSize=14;align=left;verticalAlign=top;spacingLeft=30;spacingTop=20;shadow=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1360" width="800" height="320" as="geometry"/>
+        </mxCell>
+        
+        <!-- Citas Disponibles Card -->
+        <mxCell id="citas-disponibles" value="🔔 Citas Disponibles (Reasignación)&#xa;&#xa;Cuando un paciente cancela, su cita se publica aquí automáticamente.&#xa;&#xa;ℹ️ No hay citas disponibles en este momento." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#dee2e6;fontSize=13;align=left;verticalAlign=top;spacingLeft=30;spacingTop=20;shadow=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1720" width="800" height="180" as="geometry"/>
+        </mxCell>
+        
+        <!-- GUÍA DEL PACIENTE SECTION -->
+        <mxCell id="guia-header" value="Guía del Paciente&#xa;Información importante para tu cita" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=28;fontStyle=1;align=center;verticalAlign=top;spacingTop=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1940" width="1360" height="100" as="geometry"/>
+        </mxCell>
+        
+        <!-- Primera Consulta Card -->
+        <mxCell id="guia-primera" value="📋 Primera Consulta&#xa;&#xa;Documentos Requeridos:&#xa;• Documento de identidad original&#xa;• Carné de afiliación EPS&#xa;• Orden médica o remisión&#xa;• Historia clínica previa (si tiene)&#xa;• Resultados de exámenes recientes&#xa;&#xa;Recomendaciones:&#xa;• Llegar 30 minutos antes&#xa;• Traer lista de medicamentos actuales&#xa;• Anotar dudas para el médico&#xa;• Venir acompañado si es posible" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#0d47a1;strokeWidth=2;fontSize=13;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;shadow=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2080" width="620" height="340" as="geometry"/>
+        </mxCell>
+        
+        <!-- Consulta Control Card -->
+        <mxCell id="guia-control" value="🔄 Consulta de Control&#xa;&#xa;Documentos Requeridos:&#xa;• Documento de identidad&#xa;• Carné de afiliación EPS&#xa;• Exámenes de laboratorio recientes:&#xa;  - Hemograma completo&#xa;  - Química sanguínea&#xa;  - Otros según indicación médica&#xa;• Imágenes diagnósticas (si aplica)&#xa;• Fórmula médica anterior&#xa;&#xa;Recomendaciones:&#xa;• Realizar exámenes con 5-7 días de anticipación&#xa;• Llevar registro de síntomas&#xa;• Reportar efectos secundarios" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#28a745;strokeWidth=2;fontSize=13;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;shadow=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="740" y="2080" width="620" height="340" as="geometry"/>
+        </mxCell>
+        
+        <!-- Importante Card -->
+        <mxCell id="guia-importante" value="⚠️ Importante&#xa;&#xa;Preparación para Exámenes:                                                    Ubicación:&#xa;• Hemograma: No requiere ayuno                                         Hospital San Jorge&#xa;• Química sanguínea: Ayuno de 8-12 horas                        Torre de Especialidades, Piso 5&#xa;• Orina: Primera orina de la mañana                                      Servicio de Hemato-Oncología&#xa;                                                                                                    Bogotá, Colombia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3cd;strokeColor=#f57c00;strokeWidth=2;fontSize=13;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;shadow=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2460" width="1280" height="140" as="geometry"/>
+        </mxCell>
+        
+        <!-- CONTACTO SECTION -->
+        <mxCell id="contacto-header" value="Contacto y Soporte&#xa;¿Necesitas ayuda? Estamos aquí para ti" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=28;fontStyle=1;align=center;verticalAlign=top;spacingTop=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2640" width="1360" height="100" as="geometry"/>
+        </mxCell>
+        
+        <!-- Formulario Contacto -->
+        <mxCell id="contacto-form" value="✉️ Envíanos un Mensaje&#xa;&#xa;Nombre Completo *&#xa;[_____________________________]&#xa;&#xa;Correo Electrónico *&#xa;[_____________________________]&#xa;&#xa;Teléfono&#xa;[_____________________________]&#xa;&#xa;Motivo * [Selecciona un motivo ▼]&#xa;&#xa;Mensaje *&#xa;[_____________________________]&#xa;[_____________________________]&#xa;[_____________________________]&#xa;&#xa;[Enviar Mensaje]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#dee2e6;fontSize=13;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;shadow=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2780" width="620" height="540" as="geometry"/>
+        </mxCell>
+        
+        <!-- Info Contacto -->
+        <mxCell id="contacto-info" value="☎ Información de Contacto&#xa;&#xa;📞 Teléfono: +57 (601) 300 1234&#xa;&#xa;✉️ Email: hemolink@hsj.edu.co&#xa;&#xa;🕐 Horario: Lun-Vie: 7AM-5PM | Sáb: 8AM-12PM&#xa;&#xa;📍 Ubicación: Torre de Especialidades, Piso 5&#xa;              Hospital San Jorge, Bogotá" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#dee2e6;fontSize=13;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;shadow=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="740" y="2780" width="620" height="240" as="geometry"/>
+        </mxCell>
+        
+        <!-- FAQ -->
+        <mxCell id="contacto-faq" value="❓ Preguntas Frecuentes&#xa;&#xa;▶ ¿Cómo confirmo mi cita?&#xa;   Ingresa a &quot;Mis Citas&quot; con tu documento y correo/celular...&#xa;&#xa;▶ ¿Cuándo recibiré recordatorios?&#xa;   Recibirás recordatorios automáticos 72h, 24h y 2h antes...&#xa;&#xa;▶ ¿Qué es la reasignación inteligente?&#xa;   Cuando un paciente cancela, el sistema notifica automáticamente..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#dee2e6;fontSize=13;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;shadow=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="740" y="3060" width="620" height="260" as="geometry"/>
+        </mxCell>
+        
+        <!-- FOOTER -->
+        <mxCell id="footer-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#212529;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="3380" width="1360" height="280" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="footer-col1" value="🏥 HEMOLINK HSJ&#xa;&#xa;Sistema de gestión de citas&#xa;para el servicio de&#xa;Hemato-Oncología del&#xa;Hospital San Jorge.&#xa;Optimizando la atención y&#xa;reduciendo tiempos de espera." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FFFFFF;spacingLeft=20;spacingTop=15;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3400" width="380" height="200" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="footer-col2" value="Enlaces Rápidos&#xa;&#xa;Servicios&#xa;Mis Citas&#xa;Guía del Paciente&#xa;Contacto" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FFFFFF;spacingLeft=20;spacingTop=15;" vertex="1" parent="1">
+          <mxGeometry x="520" y="3400" width="380" height="200" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="footer-col3" value="Hospital San Jorge&#xa;&#xa;📍 Torre de Especialidades, Piso 5&#xa;📞 +57 (601) 300 1234&#xa;✉️ hemolink@hsj.edu.co&#xa;🕐 Lun-Vie: 7AM-5PM | Sáb: 8AM-12PM" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FFFFFF;spacingLeft=20;spacingTop=15;" vertex="1" parent="1">
+          <mxGeometry x="960" y="3400" width="400" height="200" as="geometry"/>
+        </mxCell>
+        
+        <mxCell id="footer-copyright" value="© 2025 Hospital San Jorge - HemoLink. Todos los derechos reservados." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#adb5bd;" vertex="1" parent="1">
+          <mxGeometry x="40" y="3620" width="1360" height="30" as="geometry"/>
+        </mxCell>
+        
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
